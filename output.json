@@ -1,0 +1,15 @@
+{
+    "message": "<14>1 2016-12-25T09:03:52.754646-06:00 contosohost1 antivirus 2496 - - alertname=\"Virus Found\" computername=\"contosopc42\" computerip=\"216.58.194.142\" severity=\"1\"\r",
+    "event": {
+        "original": "<14>1 2016-12-25T09:03:52.754646-06:00 contosohost1 antivirus 2496 - - alertname=\"Virus Found\" computername=\"contosopc42\" computerip=\"216.58.194.142\" severity=\"1\"\r"
+    },
+    "source_ip": "216.58.194.142",
+    "severity": "High",
+    "hostname": "contosopc42",
+    "description": "Virus Found",
+    "@version": "1",
+    "host": {
+        "hostname": "Yog-Sothoth"
+    },
+    "@timestamp": "2022-05-19T23:29:04.174708500Z"
+}
